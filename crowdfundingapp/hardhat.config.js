@@ -9,6 +9,7 @@ module.exports = {
         url:"https://rpc.ankr.com/eth_georli",
         accounts:[`0x${process.env.PRIVATE_KEY}`],
       }
+
       
     },
     
